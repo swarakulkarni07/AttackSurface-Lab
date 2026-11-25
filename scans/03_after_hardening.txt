@@ -1,0 +1,9 @@
+# Nmap 7.98 scan initiated Wed Nov 25 06:22:34 2026 as: nmap -sV -p 1-65535 -oN scans/03_after_hardening.txt localhost
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000017s latency).
+Other addresses for localhost (not scanned): ::1
+All 65535 scanned ports on localhost (127.0.0.1) are in ignored states.
+Not shown: 65535 closed tcp ports (conn-refused)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed Nov 25 06:22:36 2026 -- 1 IP address (1 host up) scanned in 1.49 seconds
